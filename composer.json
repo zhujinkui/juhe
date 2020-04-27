@@ -1,6 +1,6 @@
 {
-    "name": "zhujinkui/tp5-juhe",
-    "description": "This is a aggregated integrated API business interface library based on THYKPHP5 framework.",
+    "name": "zhujinkui/juhe",
+    "description": "This is a aggregated integrated API business interface library based on ThinkPHP framework.",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=7.2.0"
     },
     "autoload": {
         "psr-4": {
